@@ -1,0 +1,12 @@
+{
+  "name": "apm-p-70664de8",
+  "owner": {
+    "name": "APM"
+  },
+  "plugins": [
+    {
+      "name": "mattpocock-skills",
+      "source": "./mattpocock-skills"
+    }
+  ]
+}
